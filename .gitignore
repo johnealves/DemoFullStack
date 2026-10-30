@@ -1,0 +1,19 @@
+# .NET
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+
+# Frontend
+**/node_modules/
+**/.npm-cache/
+**/dist/
+*.tsbuildinfo
+*.log
+
+# Configurações locais e segredos
+.env
+.env.*
+!.env.example
+*.local

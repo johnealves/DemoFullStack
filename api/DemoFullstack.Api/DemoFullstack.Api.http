@@ -1,0 +1,6 @@
+@DemoFullstack.Api_HostAddress = http://localhost:5002
+
+GET {{DemoFullstack.Api_HostAddress}}/api/products
+Accept: application/json
+
+###
