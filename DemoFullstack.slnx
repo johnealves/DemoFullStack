@@ -1,5 +1,6 @@
 <Solution>
-  <Folder Name="/api/">
-    <Project Path="api/DemoFullstack.Api/DemoFullstack.Api.csproj" />
-  </Folder>
+  <Project Path="DemoFullstack.Api/DemoFullstack.Api.csproj" />
+  <Project Path="DemoFullstack.Application/DemoFullstack.Application.csproj" Id="a77392a7-3ca4-4770-8666-e542f4a0f8e3" />
+  <Project Path="DemoFullstack.Domain/DemoFullstack.Domain.csproj" />
+  <Project Path="DemoFullstack.Infrastructure/DemoFullstack.Infrastructure.csproj" Id="80af80b2-3edd-4f4a-ae99-4fdbd433f366" />
 </Solution>
